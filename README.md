@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lilyhilt
-- 👀 I’m interested in using genomic analysis for medical research such as investigating causes of disease or developing precise patient treatments.
 - 🌱 I’m currently learning R and Python.
 - 📫 How to reach me:
 Email: hiltebeitellily@gmail.com
