@@ -3,7 +3,7 @@
 - 📫 How to reach me:
 Email: hiltebeitellily@gmail.com
 Phone: 508-386-8829
-LinkedIn: https://www.linkedin.com/in/lily-h-ba0669121/
+LinkedIn: https://www.linkedin.com/in/lilyhilt/
 
 <!---
 lilyhilt/lilyhilt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
